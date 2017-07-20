@@ -1,0 +1,2 @@
+IMDB Scraper that uses beautiful soup to scrape data from IMDB's website
+It uses a list of over 5,000 popular movies (imdb_movie_title.csv) and search imdb for them and writes the data to the a csv file
